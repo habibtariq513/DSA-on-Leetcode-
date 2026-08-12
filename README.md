@@ -44,6 +44,7 @@ Each solved problem lives in its own file, named after its LeetCode number and t
 ```
 DSA-on-Leetcode-/
 ├── 977. Squares of a Sorted Array
+├── 1470. Shuffle the Array
 ├── 1480. Running Sum of 1d Array
 ├── 1512. Number of Good Pairs
 ├── 1732. Find the Highest Altitude
@@ -61,11 +62,11 @@ DSA-on-Leetcode-/
 | # | Problem | Difficulty | Topics | Solution |
 |---|---|:---:|---|:---:|
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | Array, Two Pointers, Sorting | [View](./977.%20Squares%20of%20a%20Sorted%20Array) |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | Array, Prefix Sum | [View](./1480.%20Running%20Sum%20of%201d%20Array) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | Array, Prefix Sum | [View](./1480.%20Running%20Sum%20of%201d%20Array) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 Easy | Array, Hash Table, Math | [View](./1512.%20Number%20of%20Good%20Pairs) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | 🟢 Easy | Array, Prefix Sum | [View](./1732.%20Find%20the%20Highest%20Altitude) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | Array, Simulation | [View](./1929.%20Concatenation%20of%20Array) |
-| 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 Easy | Array, String, Simulation | [View](./2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 Easy | Array, String, Simulation | [View](./2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations) |
 
 *More rows get added here as new problems are solved.* 🌱
