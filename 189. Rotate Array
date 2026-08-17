@@ -1,0 +1,11 @@
+class Solution:
+    def rotate(self, nums: List[int], k: int) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        n = len(nums)
+        k = k%n
+        nums[:] = nums[n-k:] + nums[0 : n - k]
+
+# for better Understanding here's the YT Reference:
+# https://www.youtube.com/watch?v=HRzQK5TkrZM&list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU&index=29&t=58s
